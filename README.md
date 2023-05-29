@@ -1,3 +1,14 @@
+# Task 2.1  Manual Deployment
+http://alami-rs02.s3-website-us-east-1.amazonaws.com/
+<br>
+http://d23u22ddqsy58j.cloudfront.net/  - with CloudFront
+
+# Task 2.2  Automated Deployment
+https://github.com/alami/nodejs-aws-cdk-starter/pull/1
+
+# Task 2.3  Automated Deployment
+Here done
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
