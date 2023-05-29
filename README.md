@@ -1,6 +1,6 @@
 # Task 2.1  Manual Deployment
 http://alami-rs02.s3-website-us-east-1.amazonaws.com/
-
+http://d23u22ddqsy58j.cloudfront.net/  - with CloudFront
 
 
 # React-shop-cloudfront
